@@ -24,4 +24,4 @@ for link in soup.find_all('a'):
    
 
 
-#print(list)
+print(list)
